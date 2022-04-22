@@ -2,7 +2,7 @@
 - 👀 I’m interested in making things idk
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me:
-- My [Discord]
+  - My [Discord]
 
 <!---
 Frolleks/Frolleks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
