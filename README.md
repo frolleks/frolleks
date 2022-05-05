@@ -3,7 +3,8 @@
 - 📫 How to reach me:
   - My Discord: Frolleks#7545
 ___
-**I have my own README, am I cool yet? No? Aw.** Anyways, I will list a couple of good projects (that I've contrubted to):
+**I have my own README, am I cool yet? No? Aw.** Anyways, I will list a couple of good projects (that I've contributed to):
+
 - [Daksh777's SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
   
   "Want a break from the ads? Watch this short video to receive 30 minutes of ad free music." Yeah whatever but shut up.
