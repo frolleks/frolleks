@@ -2,5 +2,5 @@
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me:
   - My Discord: Frolleks#7545
-___
+
 **I have my own README, am I cool yet? No? Aw.**
