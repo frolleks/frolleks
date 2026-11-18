@@ -1,8 +1,8 @@
-## :wave: hi
+## :wave: hello everyone!!
 
-i am a fullstack web developer, and i'm also trying other things
+i'm frolleks, and i like making things. i also like to write essays (find them in my [blog](https://frolleks.site), please check them out!!)
 
-<div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=frolleks&theme=dark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frolleks&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</div>
+here are some of my notable projects:
+
+- [Quadra](https://quadrahq.org)
+- [nutmeg, the precursor to Quadra](https://github.com/frolleks/nutmeg)
